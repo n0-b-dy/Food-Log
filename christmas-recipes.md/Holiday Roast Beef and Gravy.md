@@ -28,7 +28,7 @@ This is a recipe i seen on Selena + Chef season 1 episode 2 featuring Alex Guarn
 ### Recipe
 
 1. Preheat the oven to 500 degrees F. 
-
+<br>
 2. Prepare the roast beef and garlic: Season the roast beef generously on all sides with salt and coat with the pepper. Arrange it on a rack fitted in a roasting pan. Arrange the garlic halves in a single layer of foil with some foil to spare. Drizzle with olive oil and season with salt. Wrap the foil over the garlic cloves into a little package and place in the oven. 
 
 3. Cook the beef: Place the pan in the center of the oven and cook, undisturbed, for 20 minutes. Lower the temperature of the oven to 350 degrees F. After about 45 minutes, remove the garlic from the oven and set aside. Continue to cook the meat until a thermometer inserted into the thickest parts reads between 135 degrees F to 140 degrees F for medium-rare, about 1 1/2 hours. 
