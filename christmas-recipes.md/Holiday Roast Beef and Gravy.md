@@ -12,7 +12,7 @@ This is a recipe i seen on Selena + Chef season 1 episode 2 featuring Alex Guarn
 |-------|---------|
 |1 large beef top round, 8 to 10 pounds, or smaller, if desired|All of it|
 |Flaky Sea Salt|N/A|
-|coarsely ground black pepper|1/4 cup|
+|Coarsely ground black pepper|1/4 cup|
 |Garlic, halved| 2 Large Heads|
 |Olive Oil|1 head|
 
